@@ -2,3 +2,5 @@
 lfw.tgz
 lfw/*
 data/*
+siamesemodel.h5
+/training_checkpoints
